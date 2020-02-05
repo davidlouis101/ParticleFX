@@ -1,0 +1,180 @@
+name: ParticleFx
+
+main: ParticleFx\Main
+
+version: 3.0
+
+api: [3.0.0]
+
+author: Crow
+
+commands:
+
+  pfxred:
+
+    description: "ption: "§4 RedFx Command"
+
+    permission: pfx.red
+
+    usage: /pfxred
+
+  pfxblue:
+
+    description: "§bBlueFx Command"
+
+    permission: pfx.blue
+
+    usage: /pfxblue
+
+  pfxgreen:
+
+    description: "§aGreenFx Command"
+
+    permission: pfx.green
+
+    usage: /pfxgreen
+
+  pfxwhite:
+
+    description: "§fWhiteFx Command"
+
+    permission: pfx.white
+
+    usage: /pfxwhite
+
+  pfxyellow:
+
+    description: "§6YellowFx Command"
+
+    permission: pfx.yellow
+
+    usage: /pfxyellow
+
+  pfxui:
+
+    description: "ioUI"
+
+    permission: pfx.ui
+
+    usage: /pfxui
+
+    
+
+    
+
+permissions:
+
+  pfx.red:
+
+    default: op
+
+    description: Particle RedFx Command
+
+  pfx.blue:
+
+    default: op
+
+    description: Particle BlueFx Command
+
+  pfx.green:
+
+    default: op
+
+    description: Particle GreenFx Command
+
+  pfx.white:
+
+    default: op
+
+    description: Particle WhiteFx Command
+
+  pfx.yellow:
+
+    default: op
+
+    description: Particle YellowFx Command
+
+  pfx.ui:
+
+    default: op
+
+    description: ParticleFxUI Command    description: "Particle RedFx Command"
+
+    permission: pfx.red
+
+    usage: /pfxred
+
+  pfxblue:
+
+    description: "Particle BlueFx Command"
+
+    permission: pfx.blue
+
+    usage: /pfxblue
+
+  pfxgreen:
+
+    description: "Particle GreenFx Command"
+
+    permission: pfx.green
+
+    usage: /pfxgreen
+
+  pfxwhite:
+
+    description: "Particle WhiteFx Command"
+
+    permission: pfx.white
+
+    usage: /pfxwhite
+
+  pfxyellow:
+
+    description: "Particle YellowFx Command"
+
+    permission: pfx.yellow
+
+    usage: /pfxyellow
+
+  pfxui:
+
+    description: "ParticleFxUI Command"
+
+    permission: pfx.ui
+
+    usage: /pfxui
+
+    
+
+    
+
+permissions:
+
+  pfx.red:
+
+    default: op
+
+    description: Particle RedFx Command
+
+  pfx.blue:
+
+    default: op
+
+    description: Particle BlueFx Command
+
+  pfx.green:
+
+    default: op
+
+    description: Particle GreenFx Command
+
+  pfx.white:
+
+    default: op
+
+    description: Particle WhiteFx Command
+
+  pfx.yellow:
+
+    default: op
+
