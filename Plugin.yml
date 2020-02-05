@@ -52,7 +52,7 @@ commands:
 
   pfxui:
 
-    description: "ioUI"
+    description: "§cOffnet  UI"
 
     permission: pfx.ui
 
